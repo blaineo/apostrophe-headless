@@ -1,12 +1,9 @@
-<<<<<<< HEAD
+
 [![CircleCI](https://circleci.com/gh/apostrophecms/apostrophe-headless/tree/master.svg?style=svg)](https://circleci.com/gh/apostrophecms/apostrophe-headless/tree/master)
-=======
+
 ## Apostrophe as a headless CMS - With single page request by slug
 
 This fork of apostrophe-headless was created to serve my needs for a specific project. I will maintain it as apostrophe-headless updates as long as this is not an option in the main repo. I am open to pull-requests if there are suggestions on abstracting the slug value. 
->>>>>>> chore( updating README)
-
-## Apostrophe as a headless CMS
 
 [Apostrophe](http://apostrophecms.org) is great for building websites, but many projects these days just need a "headless" CMS: an easy way to create new content types by defining schemas and immediately have a friendly interface for managing them on the back end... and REST APIs on the front end for React, React Native and other frontend frameworks to talk to.
 
